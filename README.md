@@ -9,7 +9,7 @@
 Include 2–3 images like:
 
 ![Retail Dashboard Summary](https://github.com/Katakyei/Retail-Sales-Analysis/blob/main/Retail-Sales%20Detaiiled%20Insight.png)  
-![Category Breakdown](screenshots/category_breakdown.png)
+![Category Breakdown](https://github.com/Katakyei/Retail-Sales-Analysis/blob/main/Retail-Sales%20Detaiiled%20Insight.png)
 
 ## Insights Gained
 - Identified top-selling age groups and genders.
@@ -17,4 +17,4 @@ Include 2–3 images like:
 - Observed regional sales differences for better inventory planning.
 
 ## Conclusion
-This dashboard enables business decision-makers to explore customer behaviors and sales performance interactively. It highlights your ability to prepare raw data using SQL and present clear insights using Power BI.
+This dashboard enables business decision-makers to explore customer behaviors and sales performance interactively.
