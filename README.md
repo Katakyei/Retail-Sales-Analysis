@@ -8,7 +8,7 @@
 ## Dashboard Screenshots
 Include 2–3 images like:
 
-![Retail Dashboard Overview](screenshots/dashboard_overview.png)  
+![Retail Dashboard Summary](https://github.com/Katakyei/Retail-Sales-Analysis/blob/main/Retail-Sales%20Detaiiled%20Insight.png)  
 ![Category Breakdown](screenshots/category_breakdown.png)
 
 ## Insights Gained
