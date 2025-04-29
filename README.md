@@ -1,7 +1,7 @@
 # Retail-Sales-Analysis
  
 ## Project Files
-- Retail_Sales_Cleaning_Exploration.sql – SQL script for cleaning and preparing data.
+- `https://github.com/Katakyei/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Anaylsis.sql` – SQL script for cleaning and preparing data.
 - `Retail_Sales_Dashboard.pbix` – Power BI file containing the final dashboard.
 - `/screenshots/` – Folder containing images of dashboard views.
 
